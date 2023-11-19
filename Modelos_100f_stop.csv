@@ -1,0 +1,5 @@
+Modelo,Acc entrenamiento,Acc test,Fiabilidad,Verdaderos Positivos,Falsos Positivos,Falsos Negativos,Verdaderos Negativos
+Naive Bayes,0.961,0.949,0.988,1179,14,57,143
+SVM,0.969,0.956,0.987,1173,20,41,159
+Árbol de Decisión,0.985,0.952,0.966,1165,28,39,161
+Random Forest,0.983,0.962,0.978,1176,17,36,164
